@@ -1,0 +1,12 @@
+{
+    "MediaServerMsg-2": {
+        "name": "媒体库服务器通知-旧",
+        "description": "通知消息。",
+        "labels": "消息通知,媒体库",
+        "version": "2.0",
+        "icon": "mediaplay.png",
+        "author": "kouseki",
+        "level": 1,
+        "v2": true,
+    }
+}
